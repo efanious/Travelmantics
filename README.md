@@ -8,7 +8,7 @@ Icon made by https://www.flaticon.com/free-icon/travel_201623 from www.flaticon.
 
 # Screenshots
 
-Sign Up Page           |  Deals Page             |  Add Deal Page
-:-------------------------:|:-------------------------:|:-------------------------:
-![](screenshots/Screenshot_20190821-194135_Travelmantics.jpg) | ![](screenshots/Screenshot_20190821-194335_Travelmantics.jpg) | ![](screenshots/Screenshot_20190821-194031_Travelmantics.jpg)
+Sign Up Page           |  Deals Page             |  Add Deal Page             |  Sign-inPage
+:-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
+![](screenshots/Screenshot_20190821-194135_Travelmantics.jpg) | ![](screenshots/Screenshot_20190821-194335_Travelmantics.jpg) | ![](screenshots/Screenshot_20190821-194031_Travelmantics.jpg) | ![](screenshots/Screenshot_20190821-201529_Travelmantics.jpg)
 
