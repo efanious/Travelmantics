@@ -8,7 +8,7 @@ Icon made by https://www.flaticon.com/free-icon/travel_201623 from www.flaticon.
 
 # Screenshots
 
-Main Screen           |  Edit Product             |  Swipe to delete feature
+Sign Up Page           |  Deals Page             |  Add Deal Page
 :-------------------------:|:-------------------------:|:-------------------------:
-![](screenshots/Screenshot_20190806-084808_Inventory20.jpg) | ![](screenshots/Screenshot_20190806-084832_Inventory20.jpg) | ![](screenshots/Screenshot_20190806-084855_Inventory20.jpg)
+![](screenshots/Screenshot_20190821-194135_Travelmantics.jpg) | ![](screenshots/Screenshot_20190821-194335_Travelmantics.jpg) | ![](screenshots/Screenshot_20190821-194031_Travelmantics.jpg)
 
