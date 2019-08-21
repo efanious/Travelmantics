@@ -3,6 +3,7 @@
     xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
     xmlns:tools="http://schemas.android.com/tools"
+    android:paddingBottom="8dp"
     android:layout_width="match_parent"
     android:layout_height="wrap_content">
 
@@ -23,7 +24,7 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/text_margin_standard"
         android:layout_marginTop="@dimen/text_margin_standard"
-        android:text="TextView"
+        tools:text="China Tour"
         android:textSize="@dimen/title_large"
         app:layout_constraintStart_toEndOf="@+id/imageDeal"
         app:layout_constraintTop_toTopOf="parent" />
@@ -34,7 +35,8 @@
         android:layout_height="wrap_content"
         android:layout_marginStart="@dimen/text_margin_standard"
         android:layout_marginTop="@dimen/text_margin_standard"
-        android:text="TextView"
+        tools:text="Tour around a city in China"
+        android:textSize="15sp"
         app:layout_constraintStart_toEndOf="@+id/imageDeal"
         app:layout_constraintTop_toBottomOf="@+id/tvTitle" />
 
@@ -44,7 +46,7 @@
         android:layout_height="wrap_content"
         android:layout_marginTop="@dimen/text_margin_standard"
         android:layout_marginEnd="@dimen/text_margin_standard"
-        android:text="TextView"
+        tools:text="N100000"
         android:textSize="@dimen/text_price"
         android:textColor="@color/colorAccent"
         app:layout_constraintEnd_toEndOf="parent"
